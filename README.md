@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavpotdar911
 - 👀 I’m interested in Full-stack
-- 🌱 I’m currently learning Angular and MEAN stack
+- 🌱 I’m currently learning Angular and Java Fullstack
 - 📫 You can reach me at vaibhav.potdar9946@gmail.com
 
 <!---
