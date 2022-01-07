@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavpotdar911
-- 👀 I’m interested in Full-stack
-- 🌱 I’m currently learning Angular and Java Fullstack
+- 👀 I’m interested in Cloud Technologies
+- 🌱 I’m currently working as a Software Engineer in Java Fullstack 
 - 📫 You can reach me at vaibhav.potdar9946@gmail.com
 
 <!---
